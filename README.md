@@ -1,0 +1,1 @@
+These are the algorithms challenges I have completed from freecodeCamp and CodeWars ever since I began my journey on learning Javascript. I am not refactoring yet because I want to know the difference between how I code now and how I will write my code in the future. Also I am practicing using git. This will be my second repository after my restaurant project.
